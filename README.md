@@ -55,8 +55,8 @@ Run the program after you finished completing the above instructions. Remember,
 you can run the program as much as you want to ensure the output is what you
 expect.
 
-You may also run the program with the debugger to see the variables in the Java
-Visualizer.
+You may also run the program with the IntelliJ debugger, or you can use the
+Java Visualizer.
 
 ### Optional Task
 
